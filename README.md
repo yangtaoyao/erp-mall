@@ -1,4 +1,4 @@
-# erp-shopstore
+# erp-mall
 
 > A Vue.js project
 ## 商城后台管理系统vue前端部分
